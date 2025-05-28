@@ -1,21 +1,21 @@
+HEAD
+
 # Revenue Forecaster Lite
 
 A simple local web application that forecasts the financial performance of a SaaS startup over time. Built using **React.js**, this tool helps simulate user growth, revenue, and costs to estimate profit or loss over a period of 12 to 36 months.
 
-## 🚀 How to Run the App
+🚀 How to Run the App
 
 1. Ensure **Node.js** and **npm** are installed.
 2. Clone the repository or unzip the provided folder.
 3. Open a terminal in the project folder.
 4. Run the following command:
 
-```
 npm install && npm start
-```
 
 The app will open in your default browser at `http://localhost:3000`.
 
-## 🔧 Tech Stack
+🔧 Tech Stack
 
 - **Frontend:** React.js (functional components + hooks)
 - **Charting:** Chart.js via react-chartjs-2
@@ -45,9 +45,7 @@ The app will open in your default browser at `http://localhost:3000`.
 
 Includes basic unit test for calculation logic:
 
-```
 npm test
-```
 
 ## 📁 File Structure
 
@@ -64,8 +62,10 @@ npm test
 
 MIT – free to use and modify.
 
----
-
 For any questions or clarifications, feel free to reach out.
 
 – Developed by Venkata L N R Nanduri
+
+# Revenue-Forecasterlite
+
+22e933059089cb1f72cc9f6cebb834c8bd928c6d
