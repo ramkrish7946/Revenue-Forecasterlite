@@ -65,7 +65,3 @@ MIT – free to use and modify.
 For any questions or clarifications, feel free to reach out.
 
 – Developed by Venkata L N R Nanduri
-
-# Revenue-Forecasterlite
-
-22e933059089cb1f72cc9f6cebb834c8bd928c6d
